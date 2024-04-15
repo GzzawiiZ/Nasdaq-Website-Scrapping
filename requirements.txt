@@ -1,0 +1,7 @@
+pandas
+selenium
+webdriver-manager
+matplotlib
+requests
+beautifulsoup4
+Pillow
