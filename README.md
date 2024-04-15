@@ -114,7 +114,7 @@ This tool is intended for personal and educational purposes only. Please ensure 
 Contributions are welcome! Please feel free to submit pull requests, improve the documentation, or suggest new features.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Contact
 For any queries, you can reach out to Gzzawiiz@gmail.com or m.ayuob@student.uw.edu.pl .
