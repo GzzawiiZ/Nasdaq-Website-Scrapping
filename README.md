@@ -99,7 +99,7 @@ This line of code will save the DataFrame `df` to a CSV file named `filename.csv
 For example, if you have fetched stock data using the `get_stock` function and want to save it to a CSV file, you could modify the function call as follows:
 
 ```python
-from your_script import get_stock
+
 df = get_stock("nextFiscalQ")
 df.to_csv('nextFiscalQ_data.csv', index=False)
 ```
