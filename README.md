@@ -20,7 +20,7 @@ This project leverages a range of technologies and libraries to facilitate web s
 - **Time**: Used to handle various time-related tasks, especially adding delays between web page interactions to prevent overloading the server.
 - **os**: Provides a way of using operating system dependent functionality to interact with the file system.
 - **RE**: A module that provides support for regular expressions in Python. It is used for searching, matching, or splitting strings based on specific patterns. This is particularly useful in extracting information from structured text like HTML/XML content.
-- **Laambda **:Anonymous functions defined by the `lambda` keyword in Python. These functions are small, contain no name, and are limited to a single expression. They are extensively used in the project for inline operations like sorting, filtering, or mapping data, providing a concise and functional approach to handling data transformations.
+- **Laambda**:Anonymous functions defined by the `lambda` keyword in Python. These functions are small, contain no name, and are limited to a single expression. They are extensively used in the project for inline operations like sorting, filtering, or mapping data, providing a concise and functional approach to handling data transformations.
 
 ## Features
 - Scrape real-time stock prices.
